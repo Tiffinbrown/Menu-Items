@@ -23,6 +23,9 @@ Evaluate pricing strategies and the financial viability of a new Italian special
 
 Make informed decisions on when to offer the dish, based on customer behavior patterns
 
+📈 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/tiffin.brown1595/viz/resturant_17448211893820/Dashboard2)
+
+
 # 🛠️ Tools Used
 SQL – for data cleaning and generating insights
 
